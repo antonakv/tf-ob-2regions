@@ -92,6 +92,8 @@ terraform apply
 Sample command output
 
 ```bash
+$ terraform apply
+
 An execution plan has been generated and is shown below.
 Resource actions are indicated with the following symbols:
   + create
